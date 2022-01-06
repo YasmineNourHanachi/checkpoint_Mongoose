@@ -1,0 +1,26 @@
+{
+  "name": "mernn-f1",
+  "version": "1.0.0",
+  "description": "mern app contact list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backend": "nodemon server"
+  },
+  "keywords": [
+    "mern",
+    "backend",
+    "express",
+    "mongoose"
+  ],
+  "author": "Yasmine Nour Hanachi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
